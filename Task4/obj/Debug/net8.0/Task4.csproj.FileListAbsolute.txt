@@ -1,0 +1,15 @@
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/bin/Debug/net8.0/Task4
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/bin/Debug/net8.0/Task4.deps.json
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/bin/Debug/net8.0/Task4.runtimeconfig.json
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/bin/Debug/net8.0/Task4.dll
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/bin/Debug/net8.0/Task4.pdb
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/obj/Debug/net8.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/obj/Debug/net8.0/Task4.AssemblyInfoInputs.cache
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/obj/Debug/net8.0/Task4.AssemblyInfo.cs
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/obj/Debug/net8.0/Task4.csproj.CoreCompileInputs.cache
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/obj/Debug/net8.0/Task4.sourcelink.json
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/obj/Debug/net8.0/Task4.dll
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/obj/Debug/net8.0/refint/Task4.dll
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/obj/Debug/net8.0/Task4.pdb
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/obj/Debug/net8.0/Task4.genruntimeconfig.cache
+/home/ada/Рабочий стол/ProgLang/Lesson1/Task4/obj/Debug/net8.0/ref/Task4.dll
